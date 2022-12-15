@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "cookingTool",
-    "version": "0.0.0"
+    "version": "0.0.1"
   },
   "tauri": {
     "allowlist": {
@@ -60,9 +60,9 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
-        "resizable": true,
-        "title": "cookingTool",
+        "height": 500,
+        "resizable": false,
+        "title": "Gordon Ramsey (a.k.a BDO Cooking Tool)",
         "width": 800
       }
     ]
